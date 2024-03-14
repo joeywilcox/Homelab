@@ -18,7 +18,7 @@ My homelab is a hands-on environment to learn about various tools that interest 
 - Ubuntu UncomplicatedFirewall (ufw)
 
 ## Process
-1. Install the Proxmox hypervisor
+1. [Install the Proxmox hypervisor](https://github.com/joeywilcox/Homelab/blob/e2722215c781c500c003b710ca2bdf4b69b9bb6f/Project-Pages/Virtualization.md)
 2. Utilize my homelab to learn about File Integrity Monitoring and implement Wazuh
 3. Built a RunZero Explorer
 4. Built a Minecraft Server
