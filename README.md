@@ -19,7 +19,7 @@ My homelab is a hands-on environment to learn about various tools that interest 
 
 ## Project Details
 1. [Install the Proxmox hypervisor](Project-Files/Virtualization.md)
-2. Utilize my homelab to learn about File Integrity Monitoring and implement Wazuh
+2. [Utilize my homelab to learn about File Integrity Monitoring and implement Wazuh](Project-Files/Wazuh.md)
 3. Built a RunZero Explorer
 4. Built a Minecraft Server
 5. Built a Modded Minecraft Server
